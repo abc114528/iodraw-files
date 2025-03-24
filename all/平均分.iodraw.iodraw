@@ -20,20 +20,11 @@
             <mxPoint x="840.5" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RQTYC4yR3U-JH-UtWGqW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RQTYC4yR3U-JH-UtWGqW-6" target="RQTYC4yR3U-JH-UtWGqW-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RQTYC4yR3U-JH-UtWGqW-6" value="输出菜单" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="780.5" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RQTYC4yR3U-JH-UtWGqW-8" value="输入选择为8" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="780.5" y="1440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wm2uzM1ptnmvnyOpt7fK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840.5" y="1510" as="sourcePoint" />
-            <mxPoint x="840.0526315789475" y="1530" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="RQTYC4yR3U-JH-UtWGqW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -55,7 +46,7 @@
           <mxGeometry x="610.5" y="1730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wm2uzM1ptnmvnyOpt7fK-93" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1460" width="170" height="80" as="geometry" />
+          <mxGeometry x="990" y="1370" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
