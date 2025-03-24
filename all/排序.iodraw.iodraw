@@ -73,7 +73,7 @@
         <mxCell id="wm2uzM1ptnmvnyOpt7fK-35" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1181" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wm2uzM1ptnmvnyOpt7fK-36" value="输入选择为5" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="wm2uzM1ptnmvnyOpt7fK-36" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1132" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
