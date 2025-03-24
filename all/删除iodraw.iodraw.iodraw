@@ -56,14 +56,6 @@
         <mxCell id="RQTYC4yR3U-JH-UtWGqW-20" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="953.5" y="880" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wm2uzM1ptnmvnyOpt7fK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RQTYC4yR3U-JH-UtWGqW-56" target="wm2uzM1ptnmvnyOpt7fK-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1119.5" y="1119" />
-              <mxPoint x="1119.5" y="660" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wm2uzM1ptnmvnyOpt7fK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RQTYC4yR3U-JH-UtWGqW-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="954.75" y="1190" as="targetPoint" />
