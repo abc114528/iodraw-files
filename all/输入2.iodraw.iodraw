@@ -31,7 +31,7 @@
             <mxPoint x="413.5" y="439.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8wzRp7aN6o3QGHr69CoV-5" value="输入选择为2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="8wzRp7aN6o3QGHr69CoV-5" value="输入选择为" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="353.5" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A6DvxmMVQ3ORNuEun3m_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8wzRp7aN6o3QGHr69CoV-25" target="A6DvxmMVQ3ORNuEun3m_-1">
