@@ -43,7 +43,7 @@
         <mxCell id="d_MRKV3D1FLdp9891zlG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d_MRKV3D1FLdp9891zlG-5" target="d_MRKV3D1FLdp9891zlG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_MRKV3D1FLdp9891zlG-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d_MRKV3D1FLdp9891zlG-19">
+        <mxCell id="d_MRKV3D1FLdp9891zlG-21" value="事件管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d_MRKV3D1FLdp9891zlG-19">
           <mxGeometry x="0.25" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
