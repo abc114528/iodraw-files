@@ -11,7 +11,7 @@
           <mxGeometry x="320" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d_MRKV3D1FLdp9891zlG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d_MRKV3D1FLdp9891zlG-4" value="显示当前月历" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="80" height="40" as="geometry" />
@@ -33,6 +33,13 @@
         </mxCell>
         <mxCell id="d_MRKV3D1FLdp9891zlG-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d_MRKV3D1FLdp9891zlG-11" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="190" y="350" as="sourcePoint" />
+            <mxPoint x="270" y="350" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
