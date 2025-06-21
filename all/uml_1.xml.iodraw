@@ -14,7 +14,7 @@
           <mxGeometry x="26" y="677" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uUHFMLn6ULekEJd_1YH5-4" value="year % 400 == 0?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="132" y="439" width="166" height="166" as="geometry" />
+          <mxGeometry x="190" y="384" width="166" height="166" as="geometry" />
         </mxCell>
         <mxCell id="uUHFMLn6ULekEJd_1YH5-5" value="返回0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="185" y="677" width="101" height="49" as="geometry" />
