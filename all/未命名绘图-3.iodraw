@@ -55,8 +55,8 @@
             <mxPoint x="1150" y="1890" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJgE4Pw3uaz0GveNjich-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1670" width="120" height="60" as="geometry" />
+        <mxCell id="aJgE4Pw3uaz0GveNjich-1" value="&lt;pre style=&quot;font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; color: rgb(255, 255, 255); font-size: 12.573px; text-align: left; margin: 0px !important;&quot;&gt;初始化矩阵为0&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090.5" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
