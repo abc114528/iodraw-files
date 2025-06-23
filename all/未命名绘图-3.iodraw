@@ -71,7 +71,7 @@
         <mxCell id="OvO_A7lCZJCWC5ZJBUL0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OvO_A7lCZJCWC5ZJBUL0-3" target="OvO_A7lCZJCWC5ZJBUL0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OvO_A7lCZJCWC5ZJBUL0-3" value="扫描事件并标记位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OvO_A7lCZJCWC5ZJBUL0-3" value="&amp;nbsp;返回总序数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090.5" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OvO_A7lCZJCWC5ZJBUL0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OvO_A7lCZJCWC5ZJBUL0-4" target="3VuJITQZnRZrO3S0-pzm-53">
