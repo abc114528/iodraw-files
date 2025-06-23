@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="DAjxElD_qyi4nPP9Xqgn">
-    <mxGraphModel dx="315" dy="-534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="-527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,16 +69,6 @@
         </mxCell>
         <mxCell id="OvO_A7lCZJCWC5ZJBUL0-2" value="打印系统日期&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OvO_A7lCZJCWC5ZJBUL0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="3VuJITQZnRZrO3S0-pzm-53">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1290" y="1790" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OvO_A7lCZJCWC5ZJBUL0-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OvO_A7lCZJCWC5ZJBUL0-11">
-          <mxGeometry x="0.3851" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="OvO_A7lCZJCWC5ZJBUL0-4" value="返回MonthCalendar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1389.5" y="1800" width="120" height="60" as="geometry" />
