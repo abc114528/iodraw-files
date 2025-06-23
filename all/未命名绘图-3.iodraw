@@ -48,12 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3VuJITQZnRZrO3S0-pzm-53" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1091" y="1920" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3VuJITQZnRZrO3S0-pzm-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="3VuJITQZnRZrO3S0-pzm-53" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1150" y="1890" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="1090.5" y="1850" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJgE4Pw3uaz0GveNjich-1" value="初始化矩阵为0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1090.5" y="1470" width="120" height="60" as="geometry" />
@@ -64,7 +59,7 @@
         <mxCell id="OvO_A7lCZJCWC5ZJBUL0-2" value="按行填充日期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1091" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OvO_A7lCZJCWC5ZJBUL0-3" value="计算当月1日的星期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OvO_A7lCZJCWC5ZJBUL0-3" value="扫描事件并标记位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1091" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OvO_A7lCZJCWC5ZJBUL0-4" value="计算当月1日的星期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
