@@ -147,10 +147,10 @@
           <mxGeometry x="1059" y="2360" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-8" value="打印空白" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="750" y="2739" width="124" height="49" as="geometry" />
+          <mxGeometry x="757" y="2650" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-9" value="是当前日期?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1094" y="2550" width="135" height="135" as="geometry" />
+          <mxGeometry x="1067" y="2564" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-10" value="红色打印" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="757" y="3080" width="124" height="49" as="geometry" />
