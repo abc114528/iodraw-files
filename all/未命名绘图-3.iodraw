@@ -102,19 +102,6 @@
         <mxCell id="cGStcOq2ChD_88HWov6M-10" value="红色打印" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="800" y="2840" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-11" target="cGStcOq2ChD_88HWov6M-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1160" y="2784" />
-              <mxPoint x="1160" y="2840" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-49" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cGStcOq2ChD_88HWov6M-48">
-          <mxGeometry x="-0.2118" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-11" target="cGStcOq2ChD_88HWov6M-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -133,9 +120,6 @@
           <mxGeometry x="960" y="2840" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-13" target="cGStcOq2ChD_88HWov6M-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-13" target="cGStcOq2ChD_88HWov6M-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-13" value="正常打印" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
