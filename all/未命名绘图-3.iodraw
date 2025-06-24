@@ -138,7 +138,7 @@
           <mxGeometry x="1151" y="2160" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-6" value="遍历6行7列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1162" y="2373" width="141" height="49" as="geometry" />
+          <mxGeometry x="1161" y="2240" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-7" value="是否空白位置?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="826" y="2472" width="151" height="151" as="geometry" />
