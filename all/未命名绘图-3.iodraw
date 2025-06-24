@@ -186,7 +186,7 @@
           <mxGeometry x="931" y="3080" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-13" value="正常打印" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1133" y="2930" width="124" height="49" as="geometry" />
+          <mxGeometry x="1106" y="2900" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-14" value="日期计数器+1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="913" y="3179" width="157" height="49" as="geometry" />
