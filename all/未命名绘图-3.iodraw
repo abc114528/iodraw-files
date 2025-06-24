@@ -45,6 +45,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cGStcOq2ChD_88HWov6M-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-109" target="cGStcOq2ChD_88HWov6M-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cGStcOq2ChD_88HWov6M-131" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cGStcOq2ChD_88HWov6M-130">
+          <mxGeometry x="-0.517" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-109" value="日期有效?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="93" y="939" width="119" height="61" as="geometry" />
         </mxCell>
@@ -52,7 +60,7 @@
           <mxGeometry x="-9" y="1040" width="102" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-111" value="数组未满?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="154" y="1130" width="120" height="120" as="geometry" />
+          <mxGeometry x="154" y="1030" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-112" value="复制描述" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="172" y="1323" width="126" height="49" as="geometry" />
@@ -72,13 +80,6 @@
         <mxCell id="cGStcOq2ChD_88HWov6M-117" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-108" target="cGStcOq2ChD_88HWov6M-109">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-119" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-109" target="cGStcOq2ChD_88HWov6M-111">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="214" y="1094" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-120" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.74;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-111" target="cGStcOq2ChD_88HWov6M-110">
