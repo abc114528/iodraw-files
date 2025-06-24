@@ -124,8 +124,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cGStcOq2ChD_88HWov6M-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-136">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="607" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-136" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="115.5" y="870" width="94" height="49" as="geometry" />
+          <mxGeometry x="560" y="850" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cGStcOq2ChD_88HWov6M-138" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
