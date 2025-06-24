@@ -35,10 +35,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-108" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="106" y="840" width="94" height="49" as="geometry" />
+          <mxGeometry x="105.5" y="860" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-109" value="日期有效?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="93" y="939" width="119" height="119" as="geometry" />
+          <mxGeometry x="93" y="939" width="119" height="61" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-110" value="返回0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1323" width="102" height="49" as="geometry" />
