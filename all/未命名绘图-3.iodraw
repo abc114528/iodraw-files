@@ -225,7 +225,7 @@
           <mxGeometry x="943.5" y="3000" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-15" value="行结束?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1091" y="3300" width="103" height="103" as="geometry" />
+          <mxGeometry x="1083" y="3120" width="103" height="103" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-16" value="换行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1089" y="3453" width="92" height="49" as="geometry" />
