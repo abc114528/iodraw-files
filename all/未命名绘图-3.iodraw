@@ -133,6 +133,9 @@
         <mxCell id="cGStcOq2ChD_88HWov6M-13" value="正常打印" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1098.5" y="2780" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="cGStcOq2ChD_88HWov6M-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-14" target="cGStcOq2ChD_88HWov6M-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-14" value="日期计数器+1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="933.5" y="2870" width="157" height="49" as="geometry" />
         </mxCell>
@@ -153,7 +156,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-16" value="换行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1125.5" y="3100" width="92" height="49" as="geometry" />
+          <mxGeometry x="1145.5" y="2980" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-17" value="所有日期处理完?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1088" y="3180" width="167" height="167" as="geometry" />
