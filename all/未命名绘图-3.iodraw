@@ -179,11 +179,19 @@
         <mxCell id="cGStcOq2ChD_88HWov6M-10" value="红色打印" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="757" y="3080" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="cGStcOq2ChD_88HWov6M-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-11" target="cGStcOq2ChD_88HWov6M-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cGStcOq2ChD_88HWov6M-49" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cGStcOq2ChD_88HWov6M-48">
+          <mxGeometry x="-0.2118" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-11" value="有事件?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1115.5" y="2730" width="103" height="103" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-12" value="黄色打印" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="931" y="3080" width="124" height="49" as="geometry" />
+          <mxGeometry x="960" y="2898" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-13" value="正常打印" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1106" y="2900" width="124" height="49" as="geometry" />
