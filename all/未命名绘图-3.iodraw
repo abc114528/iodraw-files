@@ -173,18 +173,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1098.75" y="2663.25" as="sourcePoint" />
-            <mxPoint x="860" y="2898" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="861" y="2663" />
-              <mxPoint x="861" y="2898" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-9" value="是当前日期?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1067" y="2564" width="135" height="135" as="geometry" />
+          <mxGeometry x="1067" y="2570" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-10" value="红色打印" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="800" y="2900" width="124" height="49" as="geometry" />
