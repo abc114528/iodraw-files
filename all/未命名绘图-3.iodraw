@@ -150,16 +150,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-15" value="行结束?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1099" y="3049" width="103" height="103" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-16" target="cGStcOq2ChD_88HWov6M-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1120" y="2960" width="103" height="103" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-16" value="换行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1106" y="3190" width="92" height="49" as="geometry" />
+          <mxGeometry x="1125.5" y="3100" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-17" value="所有日期处理完?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1111" y="3288" width="167" height="167" as="geometry" />
+          <mxGeometry x="1125.5" y="3200" width="167" height="167" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-18" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1149" y="3490" width="92" height="49" as="geometry" />
