@@ -221,11 +221,14 @@
         <mxCell id="cGStcOq2ChD_88HWov6M-13" value="正常打印" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1106" y="2900" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="cGStcOq2ChD_88HWov6M-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-14" target="cGStcOq2ChD_88HWov6M-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-14" value="日期计数器+1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="943.5" y="3000" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-15" value="行结束?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="3120" width="103" height="103" as="geometry" />
+          <mxGeometry x="1083" y="3060" width="103" height="103" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-16" value="换行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1089" y="3453" width="92" height="49" as="geometry" />
@@ -259,13 +262,6 @@
         <mxCell id="cGStcOq2ChD_88HWov6M-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-5" target="cGStcOq2ChD_88HWov6M-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.24;rounded=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-14" target="cGStcOq2ChD_88HWov6M-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="992" y="3252" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-35" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-15" target="cGStcOq2ChD_88HWov6M-16">
