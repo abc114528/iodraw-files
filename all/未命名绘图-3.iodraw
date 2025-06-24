@@ -100,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-10" value="红色打印" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="800" y="2900" width="124" height="49" as="geometry" />
+          <mxGeometry x="800" y="2840" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-11" target="cGStcOq2ChD_88HWov6M-13">
           <mxGeometry relative="1" as="geometry" />
@@ -125,19 +125,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-12" value="黄色打印" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="960" y="2898" width="124" height="49" as="geometry" />
+          <mxGeometry x="960" y="2840" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-13" target="cGStcOq2ChD_88HWov6M-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-13" value="正常打印" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1106" y="2830" width="124" height="49" as="geometry" />
+          <mxGeometry x="1106" y="2840" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-14" target="cGStcOq2ChD_88HWov6M-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-14" value="日期计数器+1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="943.5" y="3000" width="157" height="49" as="geometry" />
+          <mxGeometry x="943.5" y="2930" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cGStcOq2ChD_88HWov6M-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-15">
           <mxGeometry relative="1" as="geometry">
