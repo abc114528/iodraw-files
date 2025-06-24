@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="DAjxElD_qyi4nPP9Xqgn">
-    <mxGraphModel dx="1776" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="949" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,100 +32,6 @@
               <mxPoint x="1030" y="1470" />
               <mxPoint x="1030" y="1550" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-85" value="序数计算" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="350" width="464" height="782" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-86" value="初始化days=0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cGStcOq2ChD_88HWov6M-85">
-          <mxGeometry x="161" y="46" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-87" value="年份循环：MIN_YEAR到year-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cGStcOq2ChD_88HWov6M-85">
-          <mxGeometry x="111" y="169" width="259" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-88" value="days += 365" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cGStcOq2ChD_88HWov6M-85">
-          <mxGeometry x="265" y="333" width="143" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-89" value="days += 366" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cGStcOq2ChD_88HWov6M-85">
-          <mxGeometry x="72" y="333" width="143" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-90" value="月份循环：1到month-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cGStcOq2ChD_88HWov6M-85">
-          <mxGeometry x="128" y="457" width="224" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-91" value="days += 当月天数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cGStcOq2ChD_88HWov6M-85">
-          <mxGeometry x="149" y="580" width="183" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-92" value="days += day-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cGStcOq2ChD_88HWov6M-85">
-          <mxGeometry x="161" y="704" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="cGStcOq2ChD_88HWov6M-85" source="cGStcOq2ChD_88HWov6M-86" target="cGStcOq2ChD_88HWov6M-87">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-94" value="平年" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="cGStcOq2ChD_88HWov6M-85" source="cGStcOq2ChD_88HWov6M-87" target="cGStcOq2ChD_88HWov6M-88">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="337" y="284" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-95" value="闰年" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="cGStcOq2ChD_88HWov6M-85" source="cGStcOq2ChD_88HWov6M-87" target="cGStcOq2ChD_88HWov6M-89">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="144" y="284" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.33;entryY=0;rounded=0;" edge="1" parent="cGStcOq2ChD_88HWov6M-85" source="cGStcOq2ChD_88HWov6M-89" target="cGStcOq2ChD_88HWov6M-90">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="144" y="419" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.67;entryY=0;rounded=0;" edge="1" parent="cGStcOq2ChD_88HWov6M-85" source="cGStcOq2ChD_88HWov6M-88" target="cGStcOq2ChD_88HWov6M-90">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="337" y="419" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="cGStcOq2ChD_88HWov6M-85" source="cGStcOq2ChD_88HWov6M-90" target="cGStcOq2ChD_88HWov6M-91">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="cGStcOq2ChD_88HWov6M-85" source="cGStcOq2ChD_88HWov6M-91" target="cGStcOq2ChD_88HWov6M-92">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-100" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="584.5" y="1040" width="94" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-101" value="计算date1序数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="549" y="1142" width="166" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-102" value="计算date2序数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="549" y="1241" width="166" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-103" value="返回date2序数 - date1序数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="504" y="1340" width="255" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-100" target="cGStcOq2ChD_88HWov6M-101">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-105" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-101" target="cGStcOq2ChD_88HWov6M-102">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cGStcOq2ChD_88HWov6M-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cGStcOq2ChD_88HWov6M-102" target="cGStcOq2ChD_88HWov6M-103">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
