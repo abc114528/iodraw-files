@@ -1,0 +1,79 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="wVUTbs_oXADgXvW3LeRj">
+    <mxGraphModel dx="1295" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-1" value="开始" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="110" width="410" height="598" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-2" value="  ↓" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="26" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-3" value="初始化顺序表" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="52" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-4" value="  ↓" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="78" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-5" value="显示主菜单" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="104" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-6" value="  ↓" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="130" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-7" value="用户选择操作 → [输入选择]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="156" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-8" value="  ↓" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="182" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-9" value="[选择判断]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="208" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-10" value="  ├─1→ 创建顺序表 → [输入长度和元素]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="234" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-11" value="  ├─2→ 提示使用创建功能" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="260" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-12" value="  ├─3→ 按位置取值 → [输入位置] → [验证位置] → 输出元素值" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="286" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-13" value="  ├─4→ 按值查找 → [输入元素值] → 遍历查找 → 输出位置" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="312" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-14" value="  ├─5→ 插入元素 → [输入位置和元素] → [验证位置] → 移动元素 → 插入" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="338" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-15" value="  ├─6→ 删除元素 → [输入位置] → [验证位置] → 移动元素 → 删除" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="364" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-16" value="  ├─7→ 输出顺序表 → 遍历输出所有元素" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="390" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-17" value="  ├─8→ 保存到文件 → 打开文件 → 写入数据 → 关闭文件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="416" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-18" value="  ├─9→ 从文件读取 → 打开文件 → 读取数据 → 重建顺序表" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="442" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-19" value="  └─0→ 退出程序" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="468" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-20" value="  ↓" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="494" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-21" value="[选择≠0] → 返回显示主菜单" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="520" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-22" value="  ↓" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="546" width="410" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7HI0UeEmzmvn4PHWJp-23" value="[选择=0] → 结束" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OI7HI0UeEmzmvn4PHWJp-1">
+          <mxGeometry y="572" width="410" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
