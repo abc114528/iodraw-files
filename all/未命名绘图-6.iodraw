@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Eu9R-E7alKAJgu8J984m-112" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="994" y="148" width="94" height="49" as="geometry" />
+          <mxGeometry x="856" y="89" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Eu9R-E7alKAJgu8J984m-113" value="初始化运算符栈OPTR" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="935" y="247" width="212" height="49" as="geometry" />
+          <mxGeometry x="797" y="188" width="212" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Eu9R-E7alKAJgu8J984m-114" value="初始化表达式树栈EXPT" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="929" y="345" width="225" height="49" as="geometry" />
+          <mxGeometry x="791" y="286" width="225" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Eu9R-E7alKAJgu8J984m-115" value="OPTR栈压入&#39;#&#39;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="922" y="444" width="239" height="49" as="geometry" />
+          <mxGeometry x="784" y="385" width="239" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Eu9R-E7alKAJgu8J984m-116" value="读取字符ch" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="971" y="543" width="141" height="49" as="geometry" />
+          <mxGeometry x="833" y="484" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Eu9R-E7alKAJgu8J984m-117" value="ch=&#39;#&#39; 且 栈顶=&#39;#&#39;?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="314" y="583" width="207" height="207" as="geometry" />
