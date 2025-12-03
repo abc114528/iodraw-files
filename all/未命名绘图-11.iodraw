@@ -4,6 +4,109 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-38" value="输入验证" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="497" height="497" as="geometry" />
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-39" value="输入学生信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aaD5VM4t19wq-PE9NH-F-38">
+          <mxGeometry x="170" y="46" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-40" value="成绩是否合法?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="aaD5VM4t19wq-PE9NH-F-38">
+          <mxGeometry x="74" y="169" width="152" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-41" value="继续下一个学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aaD5VM4t19wq-PE9NH-F-38">
+          <mxGeometry x="43" y="419" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-42" value="提示错误，重新输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aaD5VM4t19wq-PE9NH-F-38">
+          <mxGeometry x="265" y="419" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="aaD5VM4t19wq-PE9NH-F-38" source="aaD5VM4t19wq-PE9NH-F-39" target="aaD5VM4t19wq-PE9NH-F-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-44" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.42;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="aaD5VM4t19wq-PE9NH-F-38" source="aaD5VM4t19wq-PE9NH-F-40" target="aaD5VM4t19wq-PE9NH-F-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-45" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.34;entryY=-0.01;rounded=0;" edge="1" parent="aaD5VM4t19wq-PE9NH-F-38" source="aaD5VM4t19wq-PE9NH-F-40" target="aaD5VM4t19wq-PE9NH-F-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="269" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=-0.01;entryX=0.94;entryY=0.98;rounded=0;" edge="1" parent="aaD5VM4t19wq-PE9NH-F-38" source="aaD5VM4t19wq-PE9NH-F-42" target="aaD5VM4t19wq-PE9NH-F-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="370" />
+              <mxPoint x="426" y="132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-47" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="647" y="494" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-48" value="输入学生人数n" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="611" y="817" width="165" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-49" value="循环输入n个学生的&#xa;姓名和成绩" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="595" y="915" width="198" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-50" value="按分数降序排序&#xa;（冒泡排序）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="607" y="1032" width="173" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-51" value="计算名次&#xa;（分数相同名次相同）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="584" y="1148" width="220" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-52" value="输出按分数排序结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="591" y="1264" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-53" value="输出按名次排序结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="591" y="1363" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-54" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="647" y="1462" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aaD5VM4t19wq-PE9NH-F-47" target="aaD5VM4t19wq-PE9NH-F-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="aaD5VM4t19wq-PE9NH-F-48" target="aaD5VM4t19wq-PE9NH-F-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aaD5VM4t19wq-PE9NH-F-49" target="aaD5VM4t19wq-PE9NH-F-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aaD5VM4t19wq-PE9NH-F-50" target="aaD5VM4t19wq-PE9NH-F-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aaD5VM4t19wq-PE9NH-F-51" target="aaD5VM4t19wq-PE9NH-F-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aaD5VM4t19wq-PE9NH-F-52" target="aaD5VM4t19wq-PE9NH-F-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaD5VM4t19wq-PE9NH-F-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aaD5VM4t19wq-PE9NH-F-53" target="aaD5VM4t19wq-PE9NH-F-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
