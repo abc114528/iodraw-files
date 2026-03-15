@@ -19,7 +19,7 @@
         <mxCell id="rwEXQaga8wGa6F-bKxwC-11" value="Sid" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="200" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rwEXQaga8wGa6F-bKxwC-12" value="Sid" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rwEXQaga8wGa6F-bKxwC-12" value="Major" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rwEXQaga8wGa6F-bKxwC-13" value="Sname" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
