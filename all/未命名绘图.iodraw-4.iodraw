@@ -10,7 +10,7 @@
         <mxCell id="rwEXQaga8wGa6F-bKxwC-1" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rwEXQaga8wGa6F-bKxwC-7" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rwEXQaga8wGa6F-bKxwC-7" value="Teacher" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwEXQaga8wGa6F-bKxwC-8" value="Class" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
