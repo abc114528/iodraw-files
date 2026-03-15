@@ -11,7 +11,7 @@
           <mxGeometry x="400" y="430" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwEXQaga8wGa6F-bKxwC-8" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwEXQaga8wGa6F-bKxwC-9" value="Content" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="280" width="80" height="40" as="geometry" />
