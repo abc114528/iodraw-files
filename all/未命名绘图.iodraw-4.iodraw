@@ -15,6 +15,9 @@
         <mxCell id="rwEXQaga8wGa6F-bKxwC-1" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jic1sOPI47KdQTH-2VXs-29" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="rwEXQaga8wGa6F-bKxwC-7" target="jic1sOPI47KdQTH-2VXs-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rwEXQaga8wGa6F-bKxwC-7" value="Teacher" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="480" width="80" height="40" as="geometry" />
         </mxCell>
