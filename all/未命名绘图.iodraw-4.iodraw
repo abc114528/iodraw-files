@@ -31,7 +31,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jic1sOPI47KdQTH-2VXs-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="rwEXQaga8wGa6F-bKxwC-18">
+        <mxCell id="jic1sOPI47KdQTH-2VXs-4" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="rwEXQaga8wGa6F-bKxwC-18">
           <mxGeometry x="0.6409" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -83,6 +83,16 @@
         </mxCell>
         <mxCell id="jic1sOPI47KdQTH-2VXs-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jic1sOPI47KdQTH-2VXs-2" target="rwEXQaga8wGa6F-bKxwC-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jic1sOPI47KdQTH-2VXs-5" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="jic1sOPI47KdQTH-2VXs-3">
+          <mxGeometry x="-0.1844" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jic1sOPI47KdQTH-2VXs-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jic1sOPI47KdQTH-2VXs-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jic1sOPI47KdQTH-2VXs-2" value="participate" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="350" y="270" width="110" height="60" as="geometry" />
