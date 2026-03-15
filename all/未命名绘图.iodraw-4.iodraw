@@ -8,7 +8,7 @@
           <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwEXQaga8wGa6F-bKxwC-7" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="430" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwEXQaga8wGa6F-bKxwC-8" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="460" width="80" height="40" as="geometry" />
@@ -97,6 +97,12 @@
         </mxCell>
         <mxCell id="jic1sOPI47KdQTH-2VXs-8" value="Grade" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jic1sOPI47KdQTH-2VXs-10" value="participate" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="355" y="280" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jic1sOPI47KdQTH-2VXs-11" value="participate" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="145" y="360" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
