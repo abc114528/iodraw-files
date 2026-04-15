@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9pth5g9TIUImxj0sAKJY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9pth5g9TIUImxj0sAKJY-1" target="9pth5g9TIUImxj0sAKJY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9pth5g9TIUImxj0sAKJY-1" value="&amp;nbsp;Light&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp;照明设备类&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9pth5g9TIUImxj0sAKJY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9pth5g9TIUImxj0sAKJY-2" target="9pth5g9TIUImxj0sAKJY-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9pth5g9TIUImxj0sAKJY-2" value="AirConditioner&lt;div&gt;&amp;nbsp;空调设备类&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="380" width="120" height="60" as="geometry" />
