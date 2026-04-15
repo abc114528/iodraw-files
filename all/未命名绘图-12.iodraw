@@ -16,7 +16,7 @@
         <mxCell id="9pth5g9TIUImxj0sAKJY-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9pth5g9TIUImxj0sAKJY-5" value="SmartDevice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9pth5g9TIUImxj0sAKJY-5" value="SmartDevice&lt;div&gt;│(抽象设备类)&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9pth5g9TIUImxj0sAKJY-6" value="EnergySavable&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
