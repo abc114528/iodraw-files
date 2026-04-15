@@ -10,10 +10,10 @@
         <mxCell id="9pth5g9TIUImxj0sAKJY-2" value="AirConditioner&lt;div&gt;&amp;nbsp;空调设备类&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9pth5g9TIUImxj0sAKJY-3" value="SmartHomeSystem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9pth5g9TIUImxj0sAKJY-3" value="SmartHomeSystem&lt;div&gt;系统控制类&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9pth5g9TIUImxj0sAKJY-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9pth5g9TIUImxj0sAKJY-4" value="Main&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9pth5g9TIUImxj0sAKJY-5" value="SmartDevice&lt;div&gt;│(抽象设备类)&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
